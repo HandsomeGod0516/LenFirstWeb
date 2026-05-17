@@ -1,0 +1,15 @@
+[submodule "portal"]
+	path = portal
+	url = https://github.com/HandsomeGod0516/lenbot-portal.git
+[submodule "dudu"]
+	path = dudu
+	url = https://github.com/HandsomeGod0516/lenbot-dudu.git
+[submodule "fitness"]
+	path = fitness
+	url = https://github.com/HandsomeGod0516/lenbot-fitness.git
+[submodule "infra-docker"]
+	path = infra-docker
+	url = https://github.com/HandsomeGod0516/lenbot-infra.git
+[submodule "portal-main"]
+	path = portal-main
+	url = https://github.com/HandsomeGod0516/lenbot-portal-main.git
