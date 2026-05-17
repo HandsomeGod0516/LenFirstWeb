@@ -13,3 +13,6 @@
 [submodule "portal-main"]
 	path = portal-main
 	url = https://github.com/HandsomeGod0516/lenbot-portal-main.git
+[submodule "wishlist"]
+	path = wishlist
+	url = https://github.com/HandsomeGod0516/lenbot-wishlist.git
