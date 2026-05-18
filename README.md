@@ -291,7 +291,7 @@ pm2 startup
 - Auth：簽章 cookie session (HMAC-SHA256 + SESSION_SECRET)
 - API：`/api/auth/*`, `/api/projects`, `/api/users`, `/api/agent/chat` (SSE), `/api/admin/*`, `/api/fitness/*`
 - Pages：`/login`, `/change-password`, `/`（專案列表）, `/projects/[slug]`（動態載子專案）
-- LLM：本機 Ollama，統一 `gemma4:31b` 跑文字/圖片/摘要
+- LLM：本機 Ollama，統一 `gemma4` 跑文字/圖片/摘要
 
 ### infra-docker (Docker Compose)
 - MySQL 8 (linux/arm64)，loopback `127.0.0.1:3306`
