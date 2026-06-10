@@ -16,3 +16,6 @@
 [submodule "wishlist"]
 	path = wishlist
 	url = https://github.com/HandsomeGod0516/lenbot-wishlist.git
+[submodule "gather"]
+	path = gather
+	url = https://github.com/HandsomeGod0516/lenbot-gather.git
